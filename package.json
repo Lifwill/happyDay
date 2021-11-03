@@ -111,7 +111,7 @@
     "reduxsauce": "1.0.0",
     "request-promise": "4.2.2",
     "seamless-immutable": "7.1.4",
-    "validator": "5.7.0",
+    "validator": "13.7.0",
     "guid": "0.0.12",
     "mysql": "^2.13.0",
     "ws": "3.3.1",
