@@ -63,7 +63,7 @@
     "gulp-replace": "0.5.4",
     "gulp-sass": "3.2.1",
     "gulp-template": "4.0.0",
-    "jsdom": "8.5.0",
+    "jsdom": "16.5.0",
     "mocha": "^5.2.0",
     "morgan": "1.9.1",
     "nodemon": "1.18.3",
